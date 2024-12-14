@@ -1,4 +1,4 @@
-# Pizza-Sales---SQL
+# Pizza Sales - SQL
 
 ## Pizza Sales Analysis Using SQL
 This project is a comprehensive end-to-end analysis of pizza sales data, designed to showcase the application of SQL for business insights. The analysis includes data cleaning, exploration, and insights generation, providing actionable recommendations for optimizing operations and boosting sales.
